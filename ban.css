@@ -1,0 +1,24 @@
+.food-munch-logo{
+    width:80px;
+    height:70px;
+}
+.banner-section-bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height:100vh;
+    background-size: cover;
+}
+.banner-heading{
+    color:white;
+    
+}
+.banner-caption{
+    color:aliceblue;
+    font-size: medium;
+}
+.btn-1{
+    background-color:yellow;
+}
+.btn-2{
+    color:yellow;
+    border-color: yellow;
+}
